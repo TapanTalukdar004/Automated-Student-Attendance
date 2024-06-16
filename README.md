@@ -63,11 +63,13 @@ In the digital age, efficient management of classroom attendance is essential. T
 4. Start the attendance process and let the system capture and recognize faces in real-time.
 
 ## Screenshots
-![Streamlit Interface](images/interface.png)  <!-- Replace with your actual screenshot path -->
+![Streamlit Interface](images/1.png)  <!-- Replace with your actual screenshot path -->
 
-![OpenCV Working](images/opencv_working.png)  <!-- Replace with your actual screenshot path -->
+![Adding Student Detail](images/2.png)  <!-- Replace with your actual screenshot path -->
 
-![CSV File](images/csv_file.png)  <!-- Replace with your actual screenshot path -->
+![Marking Attendance](images/3.png)  <!-- Replace with your actual screenshot path -->
+
+![CSV Daata Save](images/4.png)
 
 ## System Requirements
 ### Hardware Requirements
@@ -91,10 +93,9 @@ In the digital age, efficient management of classroom attendance is essential. T
 Future work includes enhancing accuracy with advanced face recognition algorithms, developing a mobile app, integrating cloud storage, providing real-time alerts, and ensuring data encryption and compliance with privacy regulations.
 
 ## Contributors
-- **Your Name** (yourusername) <!-- Replace with actual names and GitHub usernames -->
-- **Team Member 1** (username)
-- **Team Member 2** (username)
+- TapanTalukdar004 <!-- Replace with actual names and GitHub usernames -->
+- Supreeti Phukan
+- Iproena Baruah
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
